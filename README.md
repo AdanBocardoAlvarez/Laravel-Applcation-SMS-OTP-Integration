@@ -5,7 +5,7 @@ So OTP code verification is necessary for protection of users.
 For this I created Vonage account and use PHP API because my main service project is developed by Laravel. 
 Throught this course, I knew how to use various verification in Project authorization.
 including -> Nodejs-Express and PHP and so on
-If you use PHP case, you must dene 'autoload'.
+If you use PHP case, you must define 'autoload'.
 In conclusion, this helps in maintaining the quality of our user base as well as ensuring that users' accounts are secure from unauthorized access.
 
 This project's main goal is to integrate SMS OTP integration for authentication and privacy security.
